@@ -1,0 +1,10 @@
+D:\Projects\VS Daser\Game\Game\bin\Debug\Game.exe.config
+D:\Projects\VS Daser\Game\Game\bin\Debug\Game.exe
+D:\Projects\VS Daser\Game\Game\bin\Debug\Game.pdb
+D:\Projects\VS Daser\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Projects\VS Daser\Game\Game\obj\Debug\Game.Form1.resources
+D:\Projects\VS Daser\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Projects\VS Daser\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Projects\VS Daser\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Projects\VS Daser\Game\Game\obj\Debug\Game.exe
+D:\Projects\VS Daser\Game\Game\obj\Debug\Game.pdb
